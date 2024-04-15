@@ -1,0 +1,6 @@
+
+function contar() {
+}
+
+function zerar() {
+}
